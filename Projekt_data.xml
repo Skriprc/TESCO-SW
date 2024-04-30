@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autosalon>
+    <car>
+        <Name>ŠKODA Octavia</Name>
+        <Dateofsale>3.12.2010</Dateofsale>
+        <Price>500,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Felicia</Name>
+        <Dateofsale>3.12.2000</Dateofsale>
+        <Price>210,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Fabia</Name>
+        <Dateofsale>4.12.2010</Dateofsale>
+        <Price>350,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Octavia</Name>
+        <Dateofsale>4.12.2010</Dateofsale>
+        <Price>500,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Octavia</Name>
+        <Dateofsale>5.12.2010</Dateofsale>
+        <Price>500,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Fabia</Name>
+        <Dateofsale>5.12.2010</Dateofsale>
+        <Price>350,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Fabia</Name>
+        <Dateofsale>6.12.2010</Dateofsale>
+        <Price>350,000</Price>
+        <DPH>20</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Forman</Name>
+        <Dateofsale>4.12.2000</Dateofsale>
+        <Price>100,000</Price>
+        <DPH>19</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Favorit</Name>
+        <Dateofsale>5.12.2000</Dateofsale>
+        <Price>80,000</Price>
+        <DPH>19</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Forman</Name>
+        <Dateofsale>6.12.2000</Dateofsale>
+        <Price>100,000</Price>
+        <DPH>19</DPH>
+    </car>
+
+    <car>
+        <Name>ŠKODA Felicia</Name>
+        <Dateofsale>3.12.2000</Dateofsale>
+        <Price>210,000</Price>
+        <DPH>19</DPH>
+    </car>
+    
+    <car>
+        <Name>ŠKODA Felicia</Name>
+        <Dateofsale>2.12.2000</Dateofsale>
+        <Price>210,000</Price>
+        <DPH>19</DPH>
+    </car>
+    
+    <car>
+        <Name>ŠKODA Octavia</Name>
+        <Dateofsale>7.12.2010</Dateofsale>
+        <Price>500,000</Price>
+        <DPH>20</DPH>
+    </car>
+</autosalon>
