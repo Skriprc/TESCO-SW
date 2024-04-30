@@ -1,0 +1,10 @@
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\bin\Debug\Projekt_TESCOSW.exe.config
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\bin\Debug\Projekt_TESCOSW.exe
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\bin\Debug\Projekt_TESCOSW.pdb
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.csprojAssemblyReference.cache
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.Form1.resources
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.Properties.Resources.resources
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.csproj.GenerateResource.cache
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.csproj.CoreCompileInputs.cache
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.exe
+C:\Users\Skriprc Shadowsong\Desktop\Projekt_TESCOSW\Projekt_TESCOSW\obj\Debug\Projekt_TESCOSW.pdb
